@@ -1,15 +1,8 @@
 <h1 align="center">Hello there, I'm Anton</h1>
 
-<!--
-**AntonMiniazev/AntonMiniazev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
-![]([https://bit.ly/3A8zj3N])
+![](https://bit.ly/3A8zj3N)
 
-[<img src="https://raw.githubusercontent.com/[AntonMiniazev]/[AntonMiniazev]/main/profile-views.svg" height="50"/>](https://github.com/[AntonMiniazev])
+[<img src="https://raw.githubusercontent.com/AntonMiniazev/AntonMiniazev/main/profile-views.svg" height="50"/>](https://github.com/AntonMiniazev)
 
 
 
