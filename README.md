@@ -9,7 +9,7 @@
 -->
 ![]([https://bit.ly/3A8zj3N])
 
-[<img src="https://raw.githubusercontent.com/[your-github-username]/[your-github-username]/main/profile-views.svg" height="50"/>](https://github.com/[AntonMiniazev])
+[<img src="https://raw.githubusercontent.com/[AntonMiniazev]/[AntonMiniazev]/main/profile-views.svg" height="50"/>](https://github.com/[AntonMiniazev])
 
 
 
